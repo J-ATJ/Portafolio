@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.de245b2d.css",
-    "main.js": "/Portafolio/static/js/main.b0407ec6.js",
+    "main.js": "/Portafolio/static/js/main.93c9053f.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portafolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Open-cv.png": "/Portafolio/static/media/Open-cv.6b4ac4d25426bfe95d6a.png",
     "static/media/Video-player.png": "/Portafolio/static/media/Video-player.e9f9722a97cecc56d9a6.png",
@@ -26,6 +26,7 @@
     "static/media/ML-Clustering.png": "/Portafolio/static/media/ML-Clustering.a705664b508f9390b065.png",
     "static/media/ML-Predictions.png": "/Portafolio/static/media/ML-Predictions.8988bc522866eed89049.png",
     "static/media/NEXT.png": "/Portafolio/static/media/NEXT.54a7966671586d314a25.png",
+    "static/media/POWER-BI.png": "/Portafolio/static/media/POWER-BI.56286017df68cafe001c.png",
     "static/media/REACT.png": "/Portafolio/static/media/REACT.077af94ad2c3e0120347.png",
     "static/media/REACT-NATIVE.png": "/Portafolio/static/media/REACT-NATIVE.fad73e03033a7fe1198a.png",
     "static/media/MYSQL.png": "/Portafolio/static/media/MYSQL.7d8d571e5629923eaf74.png",
@@ -47,11 +48,11 @@
     "index.html": "/Portafolio/index.html",
     "static/media/slick.woff": "/Portafolio/static/media/slick.295183786cd8a1389865.woff",
     "main.de245b2d.css.map": "/Portafolio/static/css/main.de245b2d.css.map",
-    "main.b0407ec6.js.map": "/Portafolio/static/js/main.b0407ec6.js.map",
+    "main.93c9053f.js.map": "/Portafolio/static/js/main.93c9053f.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portafolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de245b2d.css",
-    "static/js/main.b0407ec6.js"
+    "static/js/main.93c9053f.js"
   ]
 }
