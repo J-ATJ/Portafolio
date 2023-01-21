@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.de245b2d.css",
-    "main.js": "/Portafolio/static/js/main.93c9053f.js",
+    "main.css": "/Portafolio/static/css/main.74dbda9b.css",
+    "main.js": "/Portafolio/static/js/main.b9c9ffe9.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portafolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/TITANIC.png": "/Portafolio/static/media/TITANIC.60f44cdfc984412dfd3c.png",
     "static/media/Open-cv.png": "/Portafolio/static/media/Open-cv.6b4ac4d25426bfe95d6a.png",
     "static/media/Video-player.png": "/Portafolio/static/media/Video-player.e9f9722a97cecc56d9a6.png",
     "static/media/pokedex-img-3.png": "/Portafolio/static/media/pokedex-img-3.6c7075bb9b98c90f2e7f.png",
@@ -47,12 +48,12 @@
     "static/media/slick.ttf": "/Portafolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/Portafolio/index.html",
     "static/media/slick.woff": "/Portafolio/static/media/slick.295183786cd8a1389865.woff",
-    "main.de245b2d.css.map": "/Portafolio/static/css/main.de245b2d.css.map",
-    "main.93c9053f.js.map": "/Portafolio/static/js/main.93c9053f.js.map",
+    "main.74dbda9b.css.map": "/Portafolio/static/css/main.74dbda9b.css.map",
+    "main.b9c9ffe9.js.map": "/Portafolio/static/js/main.b9c9ffe9.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portafolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de245b2d.css",
-    "static/js/main.93c9053f.js"
+    "static/css/main.74dbda9b.css",
+    "static/js/main.b9c9ffe9.js"
   ]
 }
