@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.74dbda9b.css",
-    "main.js": "/Portafolio/static/js/main.b9c9ffe9.js",
+    "main.css": "/Portafolio/static/css/main.15fc4706.css",
+    "main.js": "/Portafolio/static/js/main.653cba37.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portafolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TITANIC.png": "/Portafolio/static/media/TITANIC.60f44cdfc984412dfd3c.png",
     "static/media/Open-cv.png": "/Portafolio/static/media/Open-cv.6b4ac4d25426bfe95d6a.png",
@@ -13,8 +13,8 @@
     "static/media/SASS.png": "/Portafolio/static/media/SASS.7a37e4ebef54ce91dd1c.png",
     "static/media/GRAPHQL.png": "/Portafolio/static/media/GRAPHQL.35600553da5dde0d363c.png",
     "static/media/Hotel-MySQL.png": "/Portafolio/static/media/Hotel-MySQL.9910b33f12250b991b1e.png",
-    "static/media/Encrypter-menu.png": "/Portafolio/static/media/Encrypter-menu.50797d111074949485b4.png",
-    "static/media/ML-Classifiers.png": "/Portafolio/static/media/ML-Classifiers.0aa6fe47e1face6cbfbf.png",
+    "static/media/ML-Classifiers.png": "/Portafolio/static/media/ML-Classifiers.78c18f4783bcc342ff85.png",
+    "static/media/Encrypter-menu.png": "/Portafolio/static/media/Encrypter-menu.a3fe82cd51bfa9b34175.png",
     "static/media/MATPLOTLIB.png": "/Portafolio/static/media/MATPLOTLIB.046446b1969eff9e7fc9.png",
     "static/media/FormulaPlus-nbg.png": "/Portafolio/static/media/FormulaPlus-nbg.c5ad8bb802b38a614c4e.png",
     "static/media/JUPYTER.png": "/Portafolio/static/media/JUPYTER.e0e612fd290b62ecd44a.png",
@@ -23,9 +23,9 @@
     "static/media/CSS3.png": "/Portafolio/static/media/CSS3.9db0f3754a01eefc00da.png",
     "static/media/TABLEAU.png": "/Portafolio/static/media/TABLEAU.58b4ae73b4768dc82eb9.png",
     "static/media/R.png": "/Portafolio/static/media/R.e6741188b20fdbc78932.png",
+    "static/media/ML-Clustering.png": "/Portafolio/static/media/ML-Clustering.bc6442280870e6ddcaf2.png",
     "static/media/GIMP.png": "/Portafolio/static/media/GIMP.9ef063754317d4d2c3ee.png",
-    "static/media/ML-Clustering.png": "/Portafolio/static/media/ML-Clustering.a705664b508f9390b065.png",
-    "static/media/ML-Predictions.png": "/Portafolio/static/media/ML-Predictions.8988bc522866eed89049.png",
+    "static/media/ML-Predictions.png": "/Portafolio/static/media/ML-Predictions.b3ad9d1c94cb917fa794.png",
     "static/media/NEXT.png": "/Portafolio/static/media/NEXT.54a7966671586d314a25.png",
     "static/media/POWER-BI.png": "/Portafolio/static/media/POWER-BI.56286017df68cafe001c.png",
     "static/media/REACT.png": "/Portafolio/static/media/REACT.077af94ad2c3e0120347.png",
@@ -35,12 +35,13 @@
     "static/media/NODE.png": "/Portafolio/static/media/NODE.2b61cd83010393382398.png",
     "static/media/HTML5.png": "/Portafolio/static/media/HTML5.9726e1e263f92ff8143d.png",
     "static/media/JAVA.png": "/Portafolio/static/media/JAVA.f5dd86c3ef6ef3f85acf.png",
+    "static/media/FLASK.png": "/Portafolio/static/media/FLASK.41c9e14803e302171d37.png",
     "static/media/SK-LEARN.png": "/Portafolio/static/media/SK-LEARN.1cdb61e49f8abff7726e.png",
     "static/media/GitHub-logo.png": "/Portafolio/static/media/GitHub-logo.14a06c5a984f6e08b30d.png",
     "static/media/EXPRESS.png": "/Portafolio/static/media/EXPRESS.b98dfdc58597249e0cc6.png",
     "static/media/SQLite-logo.png": "/Portafolio/static/media/SQLite-logo.543fc2cdfba799af5b07.png",
     "static/media/OPENCV.png": "/Portafolio/static/media/OPENCV.f92a913f1a05b0bf2988.png",
-    "static/media/FLASK.png": "/Portafolio/static/media/FLASK.46389b6fca60d2c6dbf2.png",
+    "static/media/robot.png": "/Portafolio/static/media/robot.19c1bd0a5cbe6d2a3d8b.png",
     "static/media/VSCode-logo.png": "/Portafolio/static/media/VSCode-logo.350ae7f4119f44d61f91.png",
     "static/media/ARDUINO.png": "/Portafolio/static/media/ARDUINO.328bcaf6dba452f15369.png",
     "static/media/slick.svg": "/Portafolio/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -48,12 +49,12 @@
     "static/media/slick.ttf": "/Portafolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/Portafolio/index.html",
     "static/media/slick.woff": "/Portafolio/static/media/slick.295183786cd8a1389865.woff",
-    "main.74dbda9b.css.map": "/Portafolio/static/css/main.74dbda9b.css.map",
-    "main.b9c9ffe9.js.map": "/Portafolio/static/js/main.b9c9ffe9.js.map",
+    "main.15fc4706.css.map": "/Portafolio/static/css/main.15fc4706.css.map",
+    "main.653cba37.js.map": "/Portafolio/static/js/main.653cba37.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portafolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74dbda9b.css",
-    "static/js/main.b9c9ffe9.js"
+    "static/css/main.15fc4706.css",
+    "static/js/main.653cba37.js"
   ]
 }
