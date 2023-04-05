@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.2b5c6dfb.css",
-    "main.js": "/Portafolio/static/js/main.92b9bf01.js",
+    "main.js": "/Portafolio/static/js/main.0b60c79e.js",
     "static/js/845.37523a4f.chunk.js": "/Portafolio/static/js/845.37523a4f.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portafolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TITANIC.png": "/Portafolio/static/media/TITANIC.60f44cdfc984412dfd3c.png",
     "static/media/Open-cv.png": "/Portafolio/static/media/Open-cv.5cefa527eff3646f4a45.png",
-    "static/media/Video-player.png": "/Portafolio/static/media/Video-player.e9f9722a97cecc56d9a6.png",
+    "static/media/Django-Styler-App.png": "/Portafolio/static/media/Django-Styler-App.159dfe4da96e8edfacb1.png",
+    "static/media/Video-player.png": "/Portafolio/static/media/Video-player.977396dc7879b2b5dad5.png",
     "static/media/pokedex-img-3.png": "/Portafolio/static/media/pokedex-img-3.6c7075bb9b98c90f2e7f.png",
     "static/media/English-Quiz.png": "/Portafolio/static/media/English-Quiz.27b6f9bbd670ba2f4ba0.png",
+    "static/media/Django-F1-App.png": "/Portafolio/static/media/Django-F1-App.a71aa5c578e2fa46652a.png",
     "static/media/Extension-Translate.png": "/Portafolio/static/media/Extension-Translate.9c361a977786da31ffaa.png",
     "static/media/PYTHON.png": "/Portafolio/static/media/PYTHON.69e2f646c11d726c2c2e.png",
     "static/media/SASS.png": "/Portafolio/static/media/SASS.7a37e4ebef54ce91dd1c.png",
@@ -55,12 +57,12 @@
     "static/media/slick.woff": "/Portafolio/static/media/slick.295183786cd8a1389865.woff",
     "static/media/bite.mp3": "/Portafolio/static/media/bite.aea7caffaea845de3a7a.mp3",
     "main.2b5c6dfb.css.map": "/Portafolio/static/css/main.2b5c6dfb.css.map",
-    "main.92b9bf01.js.map": "/Portafolio/static/js/main.92b9bf01.js.map",
+    "main.0b60c79e.js.map": "/Portafolio/static/js/main.0b60c79e.js.map",
     "845.37523a4f.chunk.js.map": "/Portafolio/static/js/845.37523a4f.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portafolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b5c6dfb.css",
-    "static/js/main.92b9bf01.js"
+    "static/js/main.0b60c79e.js"
   ]
 }
